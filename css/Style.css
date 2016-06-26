@@ -1,0 +1,26 @@
+body{
+	background-color: #efefef;
+}
+
+.center{
+	height: 100%;
+	width: 500px;
+	margin: 0 auto;
+	border: solid 2px #dbdbdb;	
+	background-color: white;
+}
+
+.first{
+	width: 400px;
+	margin: 0 auto;
+}
+
+h3{
+	text-align: center;
+}
+
+img{
+	display:block;
+	margin:auto;
+}
+
